@@ -1,4 +1,4 @@
-A list of some simple programming exercises resolved during my free time :)
+
 
 
                  ___====-_  _-====___
